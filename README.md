@@ -1,0 +1,2 @@
+# CSC245-Project-2
+This is a project for my CSC245 Secure Software Development Course. In this project an insecure program is has its vulnerabilities mitigated to make it secure. This program takes in a path name as an input and will print out the contents of the file from that path. The path name is meant to point to a file that contains various email addresses and some bad input. So in total this program is meant to take in a path name pointing to a file with some email addresses and to print out those email addresses.
